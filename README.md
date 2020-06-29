@@ -1,3 +1,12 @@
+## Bienvenido a RepRap Chile
+
+Comunidad de desarrollo, conversación y divulgación de hardware y software libre y de código abierto. 
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/RepRap-Chile/web/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
