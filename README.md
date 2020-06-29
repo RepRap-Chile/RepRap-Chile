@@ -10,6 +10,6 @@ Seguir y participar en nuestras Redes Sociales
 
 [Discord](https://discord.gg/w56ac5N)
 
-O ver la documentacion de esta [pagina](https://github.com/RepRap-Chile/RepRap-Chile/blob/master/welcome.md)
+O ver la documentacion de esta [pagina](https://github.com/RepRap-Chile/RepRap-Chile/welcome)
 
 
