@@ -2,7 +2,7 @@
 
 Comunidad de desarrollo, conversación y divulgación de hardware y software libre y de código abierto. 
 
-Puedes revisar nuestros [Proyectos](https://reprap-chile.github.io/RepRap-Chile/proyectos) actuales
+Puedes revisar nuestros [Proyectos](proyectos) actuales
 
 Seguir y participar en nuestras Redes Sociales 
 
@@ -10,6 +10,6 @@ Seguir y participar en nuestras Redes Sociales
 
 [Discord](https://discord.gg/w56ac5N)
 
-O ver la documentacion rápida e instrucciones de esta [pagina](https://reprap-chile.github.io/RepRap-Chile/welcome) de github
+O ver la documentacion rápida e instrucciones de esta [pagina](welcome) de github
 
 
